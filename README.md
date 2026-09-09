@@ -103,5 +103,3 @@ The code pipeline follows rigorous, production-grade workflows:
 
 ---
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
